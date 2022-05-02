@@ -1,0 +1,10 @@
+.btn-custom {
+    min-width: 150px;
+    max-width: 400px;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
